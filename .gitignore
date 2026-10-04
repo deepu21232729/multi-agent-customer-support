@@ -1,0 +1,32 @@
+# Environment variables
+.env
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# ChromaDB / Vector store
+chroma_db/
+.chroma/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+
+# Logs and temporary files
+*.log
+*.tmp
+.DS_Store
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
